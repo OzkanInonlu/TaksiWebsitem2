@@ -52,29 +52,29 @@ const ServicesSection = () => {
         <div className="mt-16 bg-white p-8 rounded-2xl shadow-lg border border-gray-100">
           <div className="text-center space-y-4">
             <h3 className="text-2xl font-bold text-gray-900">
-              Neden Bizi Seçmelisiniz?
+              {t('services.whyChoose')}
             </h3>
             <div className="grid md:grid-cols-3 gap-8 mt-8">
               <div className="space-y-2">
                 <div className="w-12 h-12 bg-yellow-400 rounded-full flex items-center justify-center mx-auto">
                   <span className="text-black font-bold">✓</span>
                 </div>
-                <h4 className="font-semibold text-gray-900">Güvenli Sürüş</h4>
-                <p className="text-gray-600 text-sm">Yılların deneyimi ile güvenli ve konforlu yolculuk</p>
+                <h4 className="font-semibold text-gray-900">{t('services.features.safe.title')}</h4>
+                <p className="text-gray-600 text-sm">{t('services.features.safe.description')}</p>
               </div>
               <div className="space-y-2">
                 <div className="w-12 h-12 bg-yellow-400 rounded-full flex items-center justify-center mx-auto">
                   <span className="text-black font-bold">₺</span>
                 </div>
-                <h4 className="font-semibold text-gray-900">Uygun Fiyat</h4>
-                <p className="text-gray-600 text-sm">Rekabetçi ve şeffaf fiyatlandırma politikası</p>
+                <h4 className="font-semibold text-gray-900">{t('services.features.price.title')}</h4>
+                <p className="text-gray-600 text-sm">{t('services.features.price.description')}</p>
               </div>
               <div className="space-y-2">
                 <div className="w-12 h-12 bg-yellow-400 rounded-full flex items-center justify-center mx-auto">
                   <span className="text-black font-bold">⏰</span>
                 </div>
-                <h4 className="font-semibold text-gray-900">Zamanında</h4>
-                <p className="text-gray-600 text-sm">Her zaman zamanında ve güvenilir hizmet</p>
+                <h4 className="font-semibold text-gray-900">{t('services.features.ontime.title')}</h4>
+                <p className="text-gray-600 text-sm">{t('services.features.ontime.description')}</p>
               </div>
             </div>
           </div>
