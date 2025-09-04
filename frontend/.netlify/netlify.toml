@@ -27,3 +27,9 @@ redirects = []
 [build.processing.js]
 
 [build.services]
+
+[[redirects]]
+  from = "http://erkanozdemirtaksi.com/*"
+  to = "https://www.erkanozdemirtaksi.com/:splat"
+  status = 301
+  force = true
