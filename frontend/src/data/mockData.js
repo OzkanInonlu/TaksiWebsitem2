@@ -96,8 +96,17 @@ export const translations = {
       subtitle: "Experienced and Reliable Driver",
       description: "I am Erkan Özdemir. With years of experience, I provide safe and comfortable transportation service throughout Cyprus. As a single driver, I do my job with great care and attention, putting my customers' satisfaction above everything else.",
       experience: "Years of Experience",
+      experienceDesc: "Experienced driving with excellent knowledge of Cyprus roads",
       reliability: "24/7 Reliable Service",
-      comfort: "Comfortable Vehicle"
+      reliabilityDesc: "Available service at all hours, day and night",
+      comfort: "Comfortable Vehicle",
+      comfortDesc: "Clean, well-maintained and comfortable Mercedes vehicle",
+      stats: {
+        experience: "Years Experience",
+        hours: "Service Hours",
+        reliability: "Reliable"
+      },
+      professional: "Professional Driver"
     },
     // Services Section
     services: {
