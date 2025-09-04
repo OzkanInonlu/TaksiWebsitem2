@@ -270,10 +270,20 @@ export const translations = {
     contact: {
       title: "Επικοινωνία & Κρατήσεις",
       subtitle: "Καλέστε Τώρα, Ας Κλείσουμε τη Θέση σας",
+      contactInfo: "Στοιχεία Επικοινωνίας",
+      call: "Καλέστε",
       northCyprus: "Βόρεια Κύπρος",
       southCyprus: "Νότια Κύπρος", 
       whatsapp: "Επικοινωνία μέσω WhatsApp",
-      available: "Διαθέσιμοι 24/7"
+      quickReservation: "Γρήγορη Κράτηση",
+      callNorthCyprus: "Καλέστε Τώρα - Βόρεια Κύπρος",
+      callSouthCyprus: "Καλέστε Τώρα - Νότια Κύπρος",
+      sendWhatsApp: "Στείλτε Μήνυμα WhatsApp",
+      taxiService: "Υπηρεσία Ταξί",
+      mercedes: "Mercedes E-Class",
+      comfortable: "Άνετο και Ασφαλές",
+      available: "Διαθέσιμοι 24/7",
+      serviceArea: "Υπηρεσία σε όλη τη Βόρεια και Νότια Κύπρο"
     },
     // Footer
     footer: {
