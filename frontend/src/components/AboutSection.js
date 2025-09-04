@@ -9,17 +9,17 @@ const AboutSection = () => {
     {
       icon: <Star className="w-8 h-8 text-yellow-500" />,
       title: t('about.experience'),
-      description: "Kıbrıs yollarını çok iyi bilen, deneyimli sürüş"
+      description: t('about.experienceDesc')
     },
     {
       icon: <Clock className="w-8 h-8 text-yellow-500" />,
       title: t('about.reliability'),
-      description: "Gece gündüz her saatte ulaşılabilir hizmet"
+      description: t('about.reliabilityDesc')
     },
     {
       icon: <Shield className="w-8 h-8 text-yellow-500" />,
       title: t('about.comfort'),
-      description: "Temiz, bakımlı ve konforlu Mercedes araç"
+      description: t('about.comfortDesc')
     }
   ];
 
