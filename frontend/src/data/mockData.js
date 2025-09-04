@@ -127,6 +127,21 @@ export const translations = {
     services: {
       title: "Our Services",
       subtitle: "The Most Suitable Transportation Solution for You",
+      whyChoose: "Why Choose Us?",
+      features: {
+        safe: {
+          title: "Safe Driving",
+          description: "Safe and comfortable journey with years of experience"
+        },
+        price: {
+          title: "Affordable Price",
+          description: "Competitive and transparent pricing policy"
+        },
+        ontime: {
+          title: "On Time",
+          description: "Always on time and reliable service"
+        }
+      },
       airport: {
         title: "Airport Transfer",
         description: "Safe and timely transfer service to Ercan and Larnaca airports"
