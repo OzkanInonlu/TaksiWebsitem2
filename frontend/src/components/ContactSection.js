@@ -37,7 +37,7 @@ const ContactSection = () => {
           {/* Contact Information */}
           <div className="space-y-8">
             <div className="space-y-6">
-              <h3 className="text-2xl font-bold text-gray-900">İletişim Bilgileri</h3>
+              <h3 className="text-2xl font-bold text-gray-900">{t('contact.contactInfo')}</h3>
               
               {/* Phone Numbers */}
               <div className="space-y-4">
