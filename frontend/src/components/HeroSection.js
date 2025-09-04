@@ -133,8 +133,7 @@ const HeroSection = () => {
             </div>
 
             {/* Floating elements */}
-            <div className="absolute -top-4 -right-4 w-16 h-16 bg-yellow-400 rounded-full opacity-20 animate-pulse"></div>
-            <div className="absolute -bottom-4 -left-4 w-12 h-12 bg-black rounded-full opacity-10 animate-pulse delay-1000"></div>
+            <div className="absolute -top-4 -right-4 w-16 h-16 bg-yellow-400 rounded-full opacity-20"></div>
           </div>
         </div>
       </div>
