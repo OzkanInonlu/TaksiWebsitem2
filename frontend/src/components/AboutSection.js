@@ -95,7 +95,7 @@ const AboutSection = () => {
                   </div>
                   <div>
                     <p className="font-semibold text-gray-900">Erkan Özdemir</p>
-                    <p className="text-sm text-gray-600">Profesyonel Şoför</p>
+                    <p className="text-sm text-gray-600">{t('about.professional')}</p>
                   </div>
                 </div>
               </div>
