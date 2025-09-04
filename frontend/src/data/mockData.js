@@ -76,10 +76,20 @@ export const translations = {
     contact: {
       title: "İletişim & Rezervasyon",
       subtitle: "Hemen Arayın, Yerimizi Ayıralım",
+      contactInfo: "İletişim Bilgileri",
+      call: "Ara",
       northCyprus: "Kuzey Kıbrıs",
       southCyprus: "Güney Kıbrıs", 
       whatsapp: "WhatsApp ile İletişim",
-      available: "7/24 Hizmetinizdeyiz"
+      quickReservation: "Hızlı Rezervasyon",
+      callNorthCyprus: "Şimdi Ara - Kuzey Kıbrıs",
+      callSouthCyprus: "Şimdi Ara - Güney Kıbrıs",
+      sendWhatsApp: "WhatsApp ile Mesaj Gönder",
+      taxiService: "Taksi Hizmeti",
+      mercedes: "Mercedes E-Class",
+      comfortable: "Konforlu ve Güvenli",
+      available: "7/24 Hizmetinizdeyiz",
+      serviceArea: "Kuzey Kıbrıs ve Güney Kıbrıs genelinde hizmet"
     },
     // Footer
     footer: {
