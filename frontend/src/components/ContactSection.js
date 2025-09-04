@@ -99,7 +99,7 @@ const ContactSection = () => {
                 </div>
                 <div className="flex items-center space-x-3 text-gray-600">
                   <MapPin className="w-5 h-5" />
-                  <span>Kuzey Kıbrıs ve Güney Kıbrıs genelinde hizmet</span>
+                  <span>{t('contact.serviceArea')}</span>
                 </div>
               </div>
             </div>
