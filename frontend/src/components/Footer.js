@@ -26,7 +26,7 @@ const Footer = () => {
               <div className="w-10 h-10 bg-yellow-400 rounded-lg flex items-center justify-center">
                 <div className="w-5 h-5 bg-black rounded-sm"></div>
               </div>
-              <span className="text-2xl font-bold">Taksimiz</span>
+              <span className="text-2xl font-bold">Erkan Özdemir</span>
             </div>
             
             <p className="text-gray-300 leading-relaxed">
@@ -124,7 +124,7 @@ const Footer = () => {
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="text-center md:text-left">
               <p className="text-gray-400 text-sm">
-                © 2024 Taksimiz - Erkan Özdemir. {t('footer.rights')}
+                © Erkan Özdemir. {t('footer.rights')}
               </p>
             </div>
             

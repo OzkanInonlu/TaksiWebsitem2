@@ -44,7 +44,7 @@ const Navbar = ({ activeSection, onSectionChange }) => {
               <div className="w-8 h-8 bg-yellow-400 rounded-lg flex items-center justify-center">
                 <div className="w-4 h-4 bg-black rounded-sm"></div>
               </div>
-              <span className="text-xl font-bold text-gray-900">Taksimiz</span>
+              <span className="text-xl font-bold text-gray-900">Erkan Özdemir</span>
             </div>
           </div>
 
