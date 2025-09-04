@@ -173,10 +173,20 @@ export const translations = {
     contact: {
       title: "Contact & Reservation",
       subtitle: "Call Now, Let's Reserve Your Place",
+      contactInfo: "Contact Information",
+      call: "Call",
       northCyprus: "North Cyprus",
       southCyprus: "South Cyprus", 
       whatsapp: "Contact via WhatsApp",
-      available: "Available 24/7"
+      quickReservation: "Quick Reservation",
+      callNorthCyprus: "Call Now - North Cyprus",
+      callSouthCyprus: "Call Now - South Cyprus",
+      sendWhatsApp: "Send WhatsApp Message",
+      taxiService: "Taxi Service",
+      mercedes: "Mercedes E-Class",
+      comfortable: "Comfortable and Safe",
+      available: "Available 24/7",
+      serviceArea: "Service throughout North and South Cyprus"
     },
     // Footer
     footer: {
