@@ -24,8 +24,17 @@ export const translations = {
       subtitle: "Deneyimli ve Güvenilir Şoför",
       description: "Ben Erkan Özdemir. Yılların deneyimiyle Kıbrıs genelinde güvenli ve konforlu ulaşım hizmeti sunuyorum. Tek şoför olarak işimi büyük bir titizlik ve özenle yapıyor, müşterilerimin memnuniyetini her şeyin üstünde tutuyorum.",
       experience: "Yılların Deneyimi",
+      experienceDesc: "Kıbrıs yollarını çok iyi bilen, deneyimli sürüş",
       reliability: "7/24 Güvenilir Hizmet",
-      comfort: "Konforlu Araç"
+      reliabilityDesc: "Gece gündüz her saatte ulaşılabilir hizmet",
+      comfort: "Konforlu Araç",
+      comfortDesc: "Temiz, bakımlı ve konforlu Mercedes araç",
+      stats: {
+        experience: "Yıl Deneyim",
+        hours: "Hizmet Saati", 
+        reliability: "Güvenilir"
+      },
+      professional: "Profesyonel Şoför"
     },
     // Services Section
     services: {
