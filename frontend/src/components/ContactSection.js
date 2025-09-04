@@ -68,7 +68,7 @@ const ContactSection = () => {
                       className="bg-black hover:bg-gray-800 text-white"
                     >
                       <Phone className="w-4 h-4 mr-2" />
-                      Ara
+                      {t('contact.call')}
                     </Button>
                   </div>
                 </div>
