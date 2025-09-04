@@ -1,0 +1,29 @@
+functionsDirectory = "C:\\Users\\ozkaa\\Desktop\\TaksiWebsitem\\TaksiWebsitem2\\frontend\\netlify\\functions"
+functionsDirectoryOrigin = "ui"
+plugins = []
+headers = []
+redirects = []
+
+[functions]
+
+[functions."*"]
+
+[build]
+  base = "frontend"             # package.json'ın bulunduğu klasör
+  publish = "frontend/build"    # build klasörü
+  command = "npm run build"     # yarn yerine npm
+  functions = "frontend/netlify/functions"
+
+[build.environment]
+
+[build.processing]
+
+[build.processing.css]
+
+[build.processing.html]
+
+[build.processing.images]
+
+[build.processing.js]
+
+[build.services]
