@@ -40,6 +40,21 @@ export const translations = {
     services: {
       title: "Hizmetlerimiz",
       subtitle: "Size En Uygun Ulaşım Çözümü",
+      whyChoose: "Neden Bizi Seçmelisiniz?",
+      features: {
+        safe: {
+          title: "Güvenli Sürüş",
+          description: "Yılların deneyimi ile güvenli ve konforlu yolculuk"
+        },
+        price: {
+          title: "Uygun Fiyat", 
+          description: "Rekabetçi ve şeffaf fiyatlandırma politikası"
+        },
+        ontime: {
+          title: "Zamanında",
+          description: "Her zaman zamanında ve güvenilir hizmet"
+        }
+      },
       airport: {
         title: "Havalimanı Transferi",
         description: "Ercan ve Larnaka havalimanlarına güvenli ve zamanında transfer hizmeti"
