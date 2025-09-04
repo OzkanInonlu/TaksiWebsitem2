@@ -109,7 +109,7 @@ const ContactSection = () => {
           <div className="space-y-8">
             <div className="bg-yellow-50 p-8 rounded-2xl border-2 border-yellow-200">
               <h3 className="text-2xl font-bold text-gray-900 mb-6 text-center">
-                Hızlı Rezervasyon
+                {t('contact.quickReservation')}
               </h3>
               
               <div className="space-y-4">
