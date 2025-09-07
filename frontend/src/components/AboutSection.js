@@ -83,7 +83,7 @@ const AboutSection = () => {
             <div className="relative">
               <img
                 src="https://customer-assets.emergentagent.com/job_erkan-taxi-1/artifacts/zgyg4j88_taksi2.jpg"
-                alt="Erkan Özdemir - Profesyonel Taksi Şoförü"
+                alt="Erkan Özdemir - KKTC Taksi - TRNC Taksi Hizmeti - Profesyonel Taksi Şoförü"
                 className="w-full h-96 object-cover rounded-2xl shadow-lg"
               />
               
