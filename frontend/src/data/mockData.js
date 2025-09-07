@@ -14,7 +14,7 @@ export const translations = {
     hero: {
       title: "7/24 Güvenli ve Hızlı Ulaşım",
       subtitle:
-        "Kuzey Kıbrıs ve Güney Kıbrıs genelinde hızlı, güvenli ve konforlu taksi hizmeti sunuyoruz.",
+        "KKTC ve Güney Kıbrıs genelinde hızlı, güvenli ve konforlu taksi hizmeti sunuyoruz.",
       driver: "Şoförünüz: Erkan Özdemir",
       ctaText: "Hemen Ara",
       whatsappText: "WhatsApp",
@@ -83,18 +83,18 @@ export const translations = {
       subtitle: "Hemen Arayın, Yerimizi Ayıralım",
       contactInfo: "İletişim Bilgileri",
       call: "Ara",
-      northCyprus: "Kuzey Kıbrıs",
+      northCyprus: "KKTC",
       southCyprus: "Güney Kıbrıs",
       whatsapp: "WhatsApp ile İletişim",
       quickReservation: "Hızlı Rezervasyon",
-      callNorthCyprus: "Şimdi Ara - Kuzey Kıbrıs",
+      callNorthCyprus: "Şimdi Ara - KKTC",
       callSouthCyprus: "Şimdi Ara - Güney Kıbrıs",
       sendWhatsApp: "WhatsApp ile Mesaj Gönder",
       taxiService: "Taksi Hizmeti",
       mercedes: "Mercedes E-Class",
       comfortable: "Konforlu ve Güvenli",
       available: "7/24 Hizmetinizdeyiz",
-      serviceArea: "Kuzey Kıbrıs ve Güney Kıbrıs genelinde hizmet",
+      serviceArea: "KKTC ve Güney Kıbrıs genelinde hizmet",
     },
     // Footer
     footer: {

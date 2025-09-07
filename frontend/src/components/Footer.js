@@ -45,13 +45,13 @@ const Footer = () => {
             
             <div className="space-y-4">
               <div>
-                <p className="text-gray-400 text-sm mb-1">Kuzey Kıbrıs</p>
+                <p className="text-gray-400 text-sm mb-1">KKTC</p>
                 <div className="flex items-center justify-between">
                   <span className="text-lg font-semibold">{contactInfo.phones.north}</span>
                   <button 
                     onClick={() => handleCall(contactInfo.phones.north)}
                     className="text-yellow-400 hover:text-yellow-300 transition-colors"
-                    aria-label="Kuzey Kıbrıs numarasını ara"
+                    aria-label="KKTC numarasını ara"
                   >
                     <Phone className="w-4 h-4" />
                   </button>
@@ -113,7 +113,7 @@ const Footer = () => {
             
             <div className="pt-4 border-t border-gray-800">
               <p className="text-sm text-gray-400">
-                Kuzey Kıbrıs ve Güney Kıbrıs genelinde güvenilir taksi hizmeti
+                KKTC ve Güney Kıbrıs genelinde güvenilir taksi hizmeti
               </p>
             </div>
           </div>

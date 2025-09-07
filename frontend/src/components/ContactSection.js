@@ -119,7 +119,7 @@ const ContactSection = () => {
                   className="w-full bg-black hover:bg-gray-800 text-white py-4 text-lg"
                 >
                   <Phone className="w-5 h-5 mr-3" />
-                  Şimdi Ara - Kuzey Kıbrıs
+                  Şimdi Ara - KKTC
                 </Button>
                 
                 <Button 
